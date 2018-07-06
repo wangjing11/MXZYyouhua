@@ -77,12 +77,19 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
 ._流程形状 {
 }
 .tree_node {
+  text-align:left;
+}
+.sticky_1 {
   text-align:left;
 }
 .button {
