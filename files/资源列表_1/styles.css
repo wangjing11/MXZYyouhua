@@ -1617,7 +1617,7 @@
   left:0px;
   top:0px;
   width:88px;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
 #u324_img {
   border-width:0px;
@@ -3193,8 +3193,8 @@
 }
 #u392 {
   position:absolute;
-  left:406px;
-  top:263px;
+  left:392px;
+  top:269px;
   visibility:hidden;
 }
 #u392_state0 {
